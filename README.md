@@ -1,6 +1,5 @@
 - 👋 Hi, I’m Favour
-- 👀 I’m lokking to be a Data Science
-- 📫 You can reach me on twitter @thisfaveur
+- 👀 I’m a front-end engineer
 
 <!---
 fobeten/fobeten is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
